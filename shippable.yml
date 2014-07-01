@@ -2,7 +2,7 @@ language: python
 python: 
  - 2.7
 env:
- - FOO=bar
+ - FOO=bar DEVEL=true
 install: true
 script: 
  - env
