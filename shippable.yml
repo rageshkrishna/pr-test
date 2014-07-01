@@ -3,6 +3,7 @@ python:
  - 2.7
 env:
  - FOO=bar
+ - FIZZ=bin
 install: true
 script: 
  - env
